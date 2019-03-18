@@ -1,0 +1,27 @@
+body {
+	background-color : #aaf;
+}
+
+
+div.h1title {
+	font-weight: 700;
+	font-size: 24pt;
+	display: block;
+	text-align: center;
+	margin: 2em 0;
+}
+
+
+
+.half {
+	height : 50px;
+}
+
+.quarter {
+	height : 30px;
+}
+
+a.discrete {
+	color : #7040f0;
+}
+
